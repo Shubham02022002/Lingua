@@ -3,45 +3,46 @@
 @tailwind utilities;
 
 @layer utilities {
-  .text-h1 {
+  .h1 {
     font-family: 'Poppins-Bold';
     font-size: 32px;
     line-height: 38.4px;
   }
-  .text-h2 {
+  .h2 {
     font-family: 'Poppins-SemiBold';
     font-size: 24px;
     line-height: 31.2px;
   }
-  .text-h3 {
+  .h3 {
     font-family: 'Poppins-SemiBold';
     font-size: 20px;
     line-height: 26px;
   }
-  .text-h4 {
+  .h4 {
     font-family: 'Poppins-Medium';
     font-size: 16px;
     line-height: 22.4px;
   }
-  .text-body-lg {
+  .body-lg {
     font-family: 'Poppins-Regular';
     font-size: 16px;
     line-height: 25.6px;
   }
-  .text-body-md {
+  .body-md {
     font-family: 'Poppins-Regular';
     font-size: 14px;
     line-height: 22.4px;
   }
-  .text-body-sm {
+  .body-sm {
     font-family: 'Poppins-Regular';
     font-size: 13px;
     line-height: 20.8px;
   }
-  .text-caption {
+  .caption {
     font-family: 'Poppins-Regular';
     font-size: 11px;
     line-height: 15.4px;
   }
 }
+
 
