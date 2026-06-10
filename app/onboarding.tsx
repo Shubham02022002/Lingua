@@ -71,7 +71,7 @@ export default function OnboardingScreen() {
         <TouchableOpacity
           className="flex-row items-center justify-center rounded-2xl py-[18px] bg-lingua-purple gap-2"
           style={styles.ctaShadow}
-          onPress={() => router.push("/")}
+          onPress={() => router.push("/(auth)/sign-up")}
           activeOpacity={0.85}
         >
           <Text className="font-poppins-semibold text-[17px] text-white tracking-wide">
